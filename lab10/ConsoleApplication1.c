@@ -45,5 +45,5 @@ int main()
 	{
 		printf("\nx%d=%f\t", i, x[i]); 
 	}
-	return(0);
+	return 0;
 }
